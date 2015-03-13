@@ -1,0 +1,1 @@
+Lembrando que os arquivos adicionados nesta pasta são projetos Java, por isso podem ser importados para o workspace pelo import do Eclipse.
