@@ -4,20 +4,20 @@ public class Triangle {
 	int length;
 
 	public static void main(String args[]) {
-		_________
-		_____________________
-		while(_________) {
-			_____________________
-			______.height = (x + 1) * 2;
-			______.length = x + 4;
-			_____________________
+		int x = 0;
+		Triangle[] ta = new Triangle[4];
+		while (x < 4) {
+			ta[x] = new Triangle();
+			ta[x].height = (x + 1) * 2;
+			ta[x].length = x + 4;
+			ta[x].setArea();
 			System.out.print("triangulo " + x + ", area");
-			System.out.println(" = " + ______.area);
-			_____________________
+			System.out.println(" = " + ta[x].area);
+			x = x + 1;
 		}
 	}
 
 	void setArea() {
-		__________ = (height * length) / 2;
+		area = (height * length) / 2;
 	}
 }
