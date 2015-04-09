@@ -5,8 +5,8 @@ CPP  = g++.exe
 CC   = gcc.exe
 WINDRES = windres.exe
 RES  = 
-OBJ  = main.o Fila.o $(RES)
-LINKOBJ  = main.o Fila.o $(RES)
+OBJ  = main.o FilaGenerica.o $(RES)
+LINKOBJ  = main.o FilaGenerica.o $(RES)
 LIBS =  -L"C:/Dev-Cpp/lib"  
 INCS =  -I"C:/Dev-Cpp/include" 
 CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
@@ -29,5 +29,5 @@ $(BIN): $(OBJ)
 main.o: main.c
 	$(CC) -c main.c -o main.o $(CFLAGS)
 
-Fila.o: Fila.c
-	$(CC) -c Fila.c -o Fila.o $(CFLAGS)
+FilaGenerica.o: FilaGenerica.c
+	$(CC) -c FilaGenerica.c -o FilaGenerica.o $(CFLAGS)

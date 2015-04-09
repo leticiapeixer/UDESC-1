@@ -1,0 +1,5 @@
+C:\Users\UDESC\Desktop\Api.DVD\Api.DVD\bin\Debug\Api.DVD.dll
+C:\Users\UDESC\Desktop\Api.DVD\Api.DVD\bin\Debug\Api.DVD.pdb
+C:\Users\UDESC\Desktop\Api.DVD\Api.DVD\obj\Debug\Api.DVD.dll
+C:\Users\UDESC\Desktop\Api.DVD\Api.DVD\obj\Debug\Api.DVD.pdb
+C:\Users\UDESC\Desktop\Api.DVD\Api.DVD\obj\Debug\Api.DVD.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\UDESC\Desktop\Execute\Execute\obj\x86\Debug\Execute.csprojResolveAssemblyReference.cache
+C:\Users\UDESC\Desktop\Execute\Execute\bin\Debug\Execute.exe
+C:\Users\UDESC\Desktop\Execute\Execute\bin\Debug\Execute.pdb
+C:\Users\UDESC\Desktop\Execute\Execute\bin\Debug\Api.DVD.dll
+C:\Users\UDESC\Desktop\Execute\Execute\bin\Debug\Api.DVD.pdb
+C:\Users\UDESC\Desktop\Execute\Execute\obj\x86\Debug\Execute.exe
+C:\Users\UDESC\Desktop\Execute\Execute\obj\x86\Debug\Execute.pdb

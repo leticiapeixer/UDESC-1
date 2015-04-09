@@ -1,6 +1,6 @@
 [Project]
 FileName=Fila.dev
-Name=Fila
+Name=Projeto1
 UnitCount=3
 Type=1
 Ver=1
@@ -29,8 +29,8 @@ SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=
 
-[Unit1]
-FileName=main.c
+[Unit3]
+FileName=Fila.c
 CompileCpp=0
 Folder=
 Compile=1
@@ -49,8 +49,8 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
-[Unit3]
-FileName=Fila.c
+[Unit1]
+FileName=main.c
 CompileCpp=0
 Folder=
 Compile=1
